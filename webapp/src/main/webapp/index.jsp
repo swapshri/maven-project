@@ -1,274 +1,691 @@
 
+
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+<html lang="en" class="no-js">
 <head>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-      <base href="https://www.ethans.co.in/en/contact" />
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <meta name="keywords" content="it professional training institute, it training institute, pune" />
-  <meta name="author" content="Super User" />
-  <meta name="description" content="Willing to acquire perfect knowledge in IT industry. Contact Ethans Tech, the professional IT training institute in Pune. Book your seat today!" />
-  <title>Contact IT Professional Training Institute in Pune | Certified IT Courses</title>
-  <link href="/templates/shaper_varsita/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
-  <link href="https://www.ethans.co.in/en/component/search/?Itemid=638&amp;format=opensearch" rel="search" title="Search Ethans Tech" type="application/opensearchdescription+xml" />
-  <link rel="stylesheet" href="https://www.ethans.co.in/plugins/system/bdthemes_shortcodes/css/shortcode-ultimate.css" type="text/css" />
-  <link rel="stylesheet" href="https://www.ethans.co.in/plugins/system/bdthemes_shortcodes/css/font-awesome.css" type="text/css" />
-  <link rel="stylesheet" href="https://www.ethans.co.in/plugins/system/bdthemes_shortcodes/shortcodes/table/css/table.css" type="text/css" />
-  <link rel="stylesheet" href="/media/com_rsform/css/front.css" type="text/css" />
-  <link rel="stylesheet" href="/media/com_rsform/css/frameworks/responsive/responsive.css" type="text/css" />
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Sans:regular,700&amp;latin" type="text/css" />
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=ABeeZee:regular&amp;latin" type="text/css" />
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:600&amp;latin" type="text/css" />
-  <link rel="stylesheet" href="/templates/shaper_varsita/css/bootstrap.min.css" type="text/css" />
-  <link rel="stylesheet" href="/templates/shaper_varsita/css/font-awesome.min.css" type="text/css" />
-  <link rel="stylesheet" href="/templates/shaper_varsita/css/legacy.css" type="text/css" />
-  <link rel="stylesheet" href="/templates/shaper_varsita/css/template.css" type="text/css" />
-  <link rel="stylesheet" href="/templates/shaper_varsita/css/presets/preset2.css" type="text/css" class="preset" />
-  <style type="text/css">
-body{font-family:PT Sans, sans-serif; font-size:14px; font-weight:normal; }
-h1{font-family:PT Sans, sans-serif; font-size:48px; font-weight:700; }
-h2{font-family:PT Sans, sans-serif; font-size:36px; font-weight:700; }
-h3{font-family:PT Sans, sans-serif; font-size:24px; font-weight:normal; }
-h4{font-family:PT Sans, sans-serif; font-size:18px; font-weight:700; }
-h5{font-family:ABeeZee, sans-serif; font-size:14px; font-weight:normal; }
-h6{font-family:Open Sans, sans-serif; font-weight:600; }
-#sp-bottom{ background-color:#fafafa;padding:0px 0px; }
-  </style>
-  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
-  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
-  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
-  <script src="https://www.ethans.co.in/plugins/system/bdthemes_shortcodes/js/shortcode-ultimate.js" type="text/javascript"></script>
-  <script src="https://www.ethans.co.in/plugins/system/bdthemes_shortcodes/shortcodes/table/js/table.js" type="text/javascript"></script>
-  <script src="/media/com_rsform/js/script.js" type="text/javascript"></script>
-  <script src="/media/system/js/caption.js" type="text/javascript"></script>
-  <script src="/templates/shaper_varsita/js/bootstrap.min.js" type="text/javascript"></script>
-  <script src="/templates/shaper_varsita/js/jquery.sticky.js" type="text/javascript"></script>
-  <script src="/templates/shaper_varsita/js/main.js" type="text/javascript"></script>
-  <script type="text/javascript">
-jQuery(window).on('load',  function() {
-				new JCaption('img.caption');
-			});
-</script>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-   
-    <meta name="google-site-verification" content="PQ5q3UIHbYrBgzNR0K8dgVTc_m8K1pKEE4zj5mck2Sc" />
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-91634815-1', 'auto');
-  ga('send', 'pageview');
-
+  var _prum = [
+    ['id', '5366b5f9abe53de545366c8c'],
+    ['mark', 'firstbyte', (new Date()).getTime()]
+  ];
+  (function() {
+    var s = document.getElementsByTagName('script')[0],
+      p = document.createElement('script');
+    p.async = 'async';
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+  })();
 </script>
 
-<script type="application/ld+json"> { 
-"@context" : "http://schema.org",
-"@type" : "Step 1: Choose a Business Type", 
-"address" : {
-"@type": "PostalAddress",
-"addressLocality": "Pune", 
-"addressRegion": "maharashtra", 
-"postalCode": "411027", 
-"streetAddress": "Fortuna Plaza 3rd Floor, office No 303, 304 Opp Mc Donalds , Shivar Chowk Pimple Saudagar" }, 
-"name":"Ethans Tech",
-"url":"http://www.ethans.co.in/",
-"email":"training@ethans.co.in",
-"telephone":"8698585003",
-"openingHours": [ 
-"Monday 10:00-20:00", "Tuesday 10:00-20:00", "Wednesday 10:00-20:00", "Thursday 10:00-20:00", "Friday 10:00-20:00", "Saturday 10:00-20:00"], 
-"aggregateRating":{
-"@type":"AggregateRating",
-"ratingValue":"5",
-"reviewCount":"114"}
-} </script>
-<script type="application/ld+json"> { "@context" : "http://schema.org", "@type" : "Organization", "name" : "Ethans Tech", "url" : "https://www.ethans.co.in/en/", "sameAs" : ["https://www.facebook.com/ethansTechPune/","https://twitter.com/techethans","https://plus.google.com/u/0/110229274155142339631","https://in.pinterest.com/ethanstechnologies/","https://in.linkedin.com/company/ethans-tech","https://www.instagram.com/ethans_tech/"], "logo": "https://www.ethans.co.in/images/logo.png", "legalName" : "Ethans Tech", "address":[ { "@type": "PostalAddress", "addressCountry": "IN", "addressLocality": "Pune", "addressRegion": "Maharashtra", "postalCode": "411027", "streetAddress": "Solitaire Residency Gate, Above Honda Showroom, Rahatani Rd, Ahead of Konkane Chowk, Pimple Saudagar"}, { "@type": "PostalAddress", "addressCountry": "IN", "addressLocality": "Pune", "addressRegion": "Maharashtra", "postalCode": "411014", "streetAddress": "Office No.: 105, Pride Icon, Near Columbia Asia Hospital, Kharadi-Magarpatta Road,"}, { "@type": "PostalAddress", "addressCountry": "IN", "addressLocality": "Pune", "addressRegion": "Maharashtra", "postalCode": "411045", "streetAddress": "No. 1575, 2nd Floor, 11th Main Road, 4th T-Block, Pattabhirama Nagar, Jayanagar"} ], "contactPoint" :[ { "@type" : "ContactPoint", "telephone" : "+91 869 858 5003", "contactType" : "Customer Service"}, { "@type" : "ContactPoint", "telephone" : "+91 855 101 3133", "contactType" : "Customer Service"}, { "@type" : "ContactPoint", "telephone" : "+91 762 018 2669", "contactType" : "Customer Service"} ], "aggregateRating": { "@type": "AggregateRating", "ratingValue": "5.0", "reviewCount": "100" } } </script>
-<meta name="msvalidate.01" content="F806CF3565FCE8D0B6890548401C0AE1" />
-<!--Start of yoonique.net Zopim Live Chat Script-->
-<script type="text/javascript">window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set._.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8'); $.src='//v2.zopim.com/?4Oy4DOJICLzac2BFJv9tYXJj0c3or2yf';z.t=+new Date;$.type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');</script>
-<!--End of yoonique.net Zopim Live Chat Script--></head>
-<body class="site com-content view-article no-layout no-task itemid-638 en-gb ltr  layout-fluid">
-<div style="position:absolute;top:0;left:-9999px;">
-<a href="http://joomlalock.com" title="JoomlaLock - Free download premium joomla templates & extensions" target="_blank">All for Joomla</a>
-<a href="http://all4share.net" title="ALL4SHARE - Free Download Nulled Scripts, Premium Themes, Graphics Design" target="_blank">All for Webmasters</a>
-</div>    <div class="body-innerwrapper">
-        <header id="sp-header"><div class="container"><div class="row"><div id="sp-logo" class="col-xs-6 col-sm-2 col-md-3"><div class="sp-column "><a class="logo" href="/"><div class="header-logo"><img class="sp-default-logo hidden-xs" src="/images/logo.png" alt="Ethans Tech"><img class="sp-retina-logo hidden-xs" src="/images/logo.png" alt="Ethans Tech" width="216" height="78"><img class="sp-default-logo visible-xs" src="/images/logo.png" alt="Ethans Tech"></div></a></div></div><div id="sp-menu" class="col-xs-6 col-sm-10 col-md-9"><div class="sp-column ">			<div class='sp-megamenu-wrapper'>
-				<a id="offcanvas-toggler" class="visible-xs" href="#"><i class="fa fa-bars"></i></a>
-				<ul class="sp-megamenu-parent menu-fade hidden-xs"><li class="sp-menu-item"><a  href="/en/" >Home</a></li><li class="sp-menu-item sp-has-child"><a  href="#" >Courses</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item sp-has-child"><a  href="#" >Cloud</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="https://www.ethans.co.in/en/devops-training-in-pune" >Devops</a></li><li class="sp-menu-item"><a  href="https://www.ethans.co.in/en/azure-training-in-pune" >Microsoft Azure</a></li><li class="sp-menu-item"><a  href="https://www.ethans.co.in/en/aws-training-in-pune" >Amazon Web Services</a></li><li class="sp-menu-item"><a  href="https://www.ethans.co.in/en/aws-redshift-training-classes-in-pune" >AWS Redshift </a></li><li class="sp-menu-item"><a  href="https://www.ethans.co.in/en/google-cloud-training-in-pune-gcp" >Google Cloud</a></li><li class="sp-menu-item"><a  href="/en/courses/cloud/sales-force-training-institutes-classes-in-pune" >SalesForce</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="#" >Automation</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="https://www.ethans.co.in/en/perl-training-in-pune" >Perl Scripting</a></li><li class="sp-menu-item"><a  href="/en/courses/automation/selenium-testing-classes-in-pune" >Selenium with Core Java</a></li><li class="sp-menu-item"><a  href="/en/courses/automation/rpa-training-in-pune-blueprism-course" >RPA Blueprism &amp; UiPath</a></li><li class="sp-menu-item"><a  href="https://www.ethans.co.in/en/etl-testing-training-in-pune" >ETL Testing with Informatica and Datastage</a></li><li class="sp-menu-item"><a  href="https://www.ethans.co.in/en/unix-shell-scripting-training-in-pune" >Shell Scripting</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="#" >Analytics</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="https://www.ethans.co.in/en/python-training-in-pune" >Python Programming</a></li><li class="sp-menu-item"><a  href="https://www.ethans.co.in/en/hadoop-training-in-pune" >Hadoop 2.x with Spark</a></li><li class="sp-menu-item"><a  href="https://www.ethans.co.in/en/informatica-training-in-pune" >Informatica</a></li><li class="sp-menu-item"><a  href="https://www.ethans.co.in/en/data-science-training-in-pune" >Data Science</a></li><li class="sp-menu-item"><a  href="https://www.ethans.co.in/en/spark-scala-training-in-pune-classes" >Spark &amp; Scala</a></li><li class="sp-menu-item"><a  href="https://www.ethans.co.in/en/iot-training-in-pune-classes-course" >IOT - Internet of things</a></li><li class="sp-menu-item"><a  href="https://www.ethans.co.in/en/ai-training-in-pune-artificial-intelligence-classes" >Artificial Intelligence</a></li><li class="sp-menu-item"><a  href="https://www.ethans.co.in/en/tableau-training-in-pune-classes" >Tableau</a></li><li class="sp-menu-item"><a  href="/en/courses/analytics/machine-learning-training-in-pune-course-classes" >Machine Learning</a></li></ul></div></div></li><li class="sp-menu-item"><a  href="/en/courses/all-courses" >All Courses</a></li><li class="sp-menu-item sp-has-child"><a  href="#" >Other Courses</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="https://www.ethans.co.in/en/blockchain-training-in-pune" >Blockchain</a></li><li class="sp-menu-item"><a  href="/en/courses/other-courses/digital-marketing-courses-in-pune-training-classes" >Digital Marketing</a></li><li class="sp-menu-item"><a  href="https://www.ethans.co.in/en/abinitio-training-in-pune" >Abinitio</a></li></ul></div></div></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="#" >About Us</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/en/about-us/our-history" >Our History</a></li><li class="sp-menu-item"><a  href="/en/about-us/why-choose-us" >Why Choose Us</a></li><li class="sp-menu-item"><a  href="/en/about-us/how-we-work" >How We Work</a></li><li class="sp-menu-item"><a  href="/en/about-us/our-trainers" >Our Trainers</a></li><li class="sp-menu-item"><a  href="/en/about-us/our-technologies" >Our Technologies</a></li></ul></div></div></li><li class="sp-menu-item"><a  href="/en/services" >Services</a></li><li class="sp-menu-item current-item active"><a  href="/en/contact" >Contact Us</a></li></ul>			</div>
-		</div></div></div></div></header><section id="sp-page-title"><div class="row"><div id="sp-title" class="col-sm-12 col-md-12"><div class="sp-column "><div class="sp-page-title"style="background-image: url(/images/1.jpg);"><div class="container"><h2>Contact Us</h2></div></div></div></div></div></section><section id="sp-main-body"><div class="container"><div class="row"><div id="sp-component" class="col-sm-12 col-md-12"><div class="sp-column "><div id="system-message-container">
-	</div>
-<article class="item item-page" itemscope itemtype="http://schema.org/Article">
-	<meta itemprop="inLanguage" content="en-GB" />
-	
-	
 
-	<div class="entry-header">
-		
-				
-			</div>
+<title>Light home |  Light</title>
+<meta name="description" content="A multi-lens and multi-sensor camera. The camera has 16 camera modules designed to capture 52MP images using multiple apertures." />
+<meta name="keywords" content="A multi-lens and multi-sensor camera. The camera has 16 camera modules designed to capture 52MP images using multiple apertures." />
+<meta name="author" content="TheLightCo" />
 
-				
-		
-		
-	
-			<div itemprop="articleBody">
-		<div class="su-table">
-<table style="height: 316px; width: 277px;">
-<tbody>
-<tr>
-<td colspan="3"><span style="color: #222222; font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt;"><strong>Contact Form</strong></span></td>
-</tr>
-<tr>
-<td colspan="3"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt;"><form method="post"  id="userForm" class="formResponsive" action="https://www.ethans.co.in/en/contact"><h2>Contact Form</h2>
+<meta property="og:image" content="http://light.co/assets/images/Light-L16-Camera.jpg" />
+<meta property="og:image:secure_url" content="https://light.co/assets/images/Light-L16-Camera.jpg" />
+<link href="https://s3-us-west-2.amazonaws.com/light-prod-s3-assets-1jqjlzakwj67k/favicons/favicon-64x64.png" type="image/png" rel="shortcut icon">
+<link href="https://s3-us-west-2.amazonaws.com/light-prod-s3-assets-1jqjlzakwj67k/favicons/favicon-48x48.png" rel="apple-touch-icon" sizes="48x48">
+<link href="https://s3-us-west-2.amazonaws.com/light-prod-s3-assets-1jqjlzakwj67k/favicons/favicon-64x64.png" rel="apple-touch-icon" sizes="64x64">
 
-<!-- Do not remove this ID, it is used to identify the page so that the pagination script can work correctly -->
-<fieldset class="formHorizontal formContainer" id="rsform_3_page_0">
-	<div class="rsform-block rsform-block-name">
-	<div class="formControlLabel">Your Name<strong class="formRequired">(*)</strong></div>
-		<div class="formControls">
-			<div class="formBody"><input type="text" value="" size="20" name="form[Name]" id="Name" class="rsform-input-box" /><span class="formValidation"><span id="component23" class="formNoError">Please let us know your name.</span></span></div>
-			<p class="formDescription"></p>
-		</div>
-	</div>
-	<div class="rsform-block rsform-block-email">
-	<div class="formControlLabel">Your Email<strong class="formRequired">(*)</strong></div>
-		<div class="formControls">
-			<div class="formBody"><input type="text" value="" size="20" name="form[Email]" id="Email" class="rsform-input-box" /><span class="formValidation"><span id="component24" class="formNoError">Please let us know your email address.</span></span></div>
-			<p class="formDescription"></p>
-		</div>
-	</div>
-	<div class="rsform-block rsform-block-mobile-no">
-	<div class="formControlLabel">Mobile No<strong class="formRequired">(*)</strong></div>
-		<div class="formControls">
-			<div class="formBody"><input type="tel" value="" size="20" name="form[Mobile No]" id="Mobile No" class="rsform-input-box" /><span class="formValidation"><span id="component28" class="formNoError">Invalid Input</span></span></div>
-			<p class="formDescription"></p>
-		</div>
-	</div>
-	<div class="rsform-block rsform-block-subject">
-	<div class="formControlLabel">Subject<strong class="formRequired">(*)</strong></div>
-		<div class="formControls">
-			<div class="formBody"><input type="text" value="" size="20" name="form[Subject]" id="Subject" class="rsform-input-box" /><span class="formValidation"><span id="component25" class="formNoError">Please write a subject for your message.</span></span></div>
-			<p class="formDescription"></p>
-		</div>
-	</div>
-	<div class="rsform-block rsform-block-message">
-	<div class="formControlLabel">Message<strong class="formRequired">(*)</strong></div>
-		<div class="formControls">
-			<div class="formBody"><textarea cols="50" rows="5" name="form[Message]" id="Message" class="rsform-text-box"></textarea><span class="formValidation"><span id="component26" class="formNoError">Please let us know your message.</span></span></div>
-			<p class="formDescription"></p>
-		</div>
-	</div>
-	<div class="rsform-block rsform-block-send">
-	<div class="formControlLabel"></div>
-		<div class="formControls">
-			<div class="formBody"><input type="submit" name="form[Send]" id="Send" class="rsform-submit-button" value="Send" /><span class="formValidation"></span></div>
-			<p class="formDescription"></p>
-		</div>
-	</div>
-</fieldset>
-<input type="hidden" name="form[formId]" value="3"/></form></span></td>
-</tr>
-<tr>
-<td colspan="3">
-<address><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt;"><strong>Ethan's Tech Address</strong></span></address>
-</td>
-</tr>
-<tr>
-<td style="vertical-align: top;">
-<div><strong><span style="color: #222222; font-family: verdana,geneva; font-size: 10pt;">Pimple Saudagar</span></strong></div>
-<div><span style="color: #222222; font-family: verdana, geneva; font-size: 10pt;">Solitaire Residency Gate, </span></div>
-<div><span style="color: #222222; font-family: verdana, geneva; font-size: 10pt;">Above Honda Showroom, </span></div>
-<div><span style="color: #222222; font-family: verdana, geneva; font-size: 10pt;">Rahatani Rd,&nbsp;</span><span style="color: #222222; font-family: verdana, geneva; font-size: 10pt;">Ahead of Konkane Chowk,</span></div>
-<div><span style="color: #222222; font-family: verdana, geneva; font-size: 10pt;"> Pimple Saudagar, Pune</span></div>
-<div><span style="color: #222222; font-family: verdana, geneva; font-size: 10pt;"><strong>Email</strong>:<span id="cloak84049">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
- //<!--
- document.getElementById('cloak84049').innerHTML = '';
- var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
- var path = 'hr' + 'ef' + '=';
- var addy84049 = 'tr&#97;&#105;n&#105;ng' + '&#64;';
- addy84049 = addy84049 + '&#101;th&#97;ns' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;n';
- var addy_text84049 = ' tr&#97;&#105;n&#105;ng@&#101;th&#97;ns.c&#111;.&#105;n ';
- document.getElementById('cloak84049').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy84049 + '\'>'+addy_text84049+'<\/a>';
- //-->
- </script></span></div>
-<div><span style="color: #222222; font-family: verdana, geneva; font-size: 10pt;"><strong>Phone</strong>: +91 8698585003</span></div>
-<div><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: 12pt;"></div></span></div>
-</td>
-<td style="vertical-align: top;">
-<div><strong><span style="color: #222222; font-family: verdana,geneva; font-size: 10pt;">Kharadi</span></strong></div>
-<div><span style="color: #222222; font-family: verdana, geneva; font-size: 10pt;">Office No.: 105, </span></div>
-<div><span style="color: #222222; font-family: verdana, geneva; font-size: 10pt;">Pride Icon, Near Columbia Asia Hospital, </span></div>
-<div><span style="color: #222222; font-family: verdana, geneva; font-size: 10pt;">Kharadi-Magarpatta Road,</span></div>
-<div><span style="color: #222222; font-family: verdana, geneva; font-size: 10pt;">Pune, Maharashtra</span></div>
-<div><span style="color: #222222; font-family: verdana, geneva; font-size: 10pt;"><strong>Email</strong>:<span id="cloak5141">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
- //<!--
- document.getElementById('cloak5141').innerHTML = '';
- var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
- var path = 'hr' + 'ef' + '=';
- var addy5141 = 'kh&#97;r&#97;d&#105;' + '&#64;';
- addy5141 = addy5141 + '&#101;th&#97;ns' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;n';
- var addy_text5141 = ' kh&#97;r&#97;d&#105;@&#101;th&#97;ns.c&#111;.&#105;n ';
- document.getElementById('cloak5141').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy5141 + '\'>'+addy_text5141+'<\/a>';
- //-->
- </script></span></div>
-<div><span style="color: #222222; font-family: verdana, geneva; font-size: 10pt;"><strong>Phone</strong>: +91 8551013133</span></div>
-</td>
-<td style="vertical-align: top;">
-<div><strong><span style="color: #222222; font-family: verdana,geneva; font-size: 10pt;">Baner</span></strong></div>
-<div><span style="color: #222222; font-family: verdana, geneva; font-size: 10pt;">Office No.: 3B, </span></div>
-<div><span style="color: #222222; font-family: verdana, geneva; font-size: 10pt;">3rd floor, Vasuda House, </span></div>
-<div><span style="color: #222222; font-family: verdana, geneva; font-size: 10pt;">Near COSMOS Bank,</span></div>
-<div><span style="color: #222222; font-family: verdana, geneva; font-size: 10pt;">Baner,&nbsp;</span><span style="color: #222222; font-family: verdana, geneva; font-size: 10pt;">Pune, Maharashtra</span></div>
-<div><span style="color: #222222; font-family: verdana, geneva; font-size: 10pt;"><strong>Email</strong>:<span id="cloak11776">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
- //<!--
- document.getElementById('cloak11776').innerHTML = '';
- var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
- var path = 'hr' + 'ef' + '=';
- var addy11776 = 'kh&#97;r&#97;d&#105;' + '&#64;';
- addy11776 = addy11776 + '&#101;th&#97;ns' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;n';
- var addy_text11776 = '&nbsp;b&#97;n&#101;r@&#101;th&#97;ns.c&#111;.&#105;n ';
- document.getElementById('cloak11776').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy11776 + '\'>'+addy_text11776+'<\/a>';
- //-->
- </script></span></div>
-<div><span style="color: #222222; font-family: verdana, geneva; font-size: 10pt;"><strong>Phone</strong>: +91 7620182669</span></div>
-</td>
-</tr>
-</tbody>
-</table>
-	</div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/foundation/5.5.3/css/foundation.min.css">
+<link rel="stylesheet" type="text/css" href="//hello.myfonts.net/count/2e6150">
 
-	
+<link rel="stylesheet" type="text/css" href="https://light.co/assets/css/main.css?v=0.1.3968">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://s3.amazonaws.com/icomoon.io/84375/LightIcons/style.css?k6o48s">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.css">
+</head>
+<body id="home" class="home">
+<a name="top" id="top"></a>
 
-							
-</article>
-</div></div></div></div></section><section id="sp-bottom"><div class="container"><div class="row"><div id="sp-bottom4" class="col-sm-12 col-md-12"><div class="sp-column "></div></div></div></div></section><footer id="sp-footer"><div class="container"><div class="row"><div id="sp-footer1" class="col-sm-12 col-md-12"><div class="sp-column "><span class="sp-copyright"> <table align="center">
-<tbody>
-<tr>
-<td style="text-align: center;"><a href="#" onclick="window.open('https://www.sitelock.com/verify.php?site=ethans.co.in','SiteLock','width=600,height=600,left=160,top=170');"><img src="//shield.sitelock.com/shield/ethans.co.in" alt="SiteLock" class="img-responsive" style="display: block; margin-left: auto; margin-right: auto;" title="SiteLock" /></a></td>
-</tr>
-<tr>
-<td>Copyright &copy; 2018 - Ethans Tech Solutions LLP. All Right Reserved. Designed By <span><a href="http://www.sarvottam.in" target="_blank">Sarvottam</a></span></td>
-</tr>
-</tbody>
-</table></span></div></div></div></div></footer>
-        <div class="offcanvas-menu">
-            <a href="#" class="close-offcanvas"><i class="fa fa-remove"></i></a>
-            <div class="offcanvas-inner">
-                                    <div class="sp-module "><h3 class="sp-module-title">Search</h3><div class="sp-module-content"><div class="search">
-	<form action="/en/contact" method="post">
-		<input name="searchword" id="mod-search-searchword" maxlength="200"  class="inputbox search-query" type="text" size="20" placeholder="Search ..." />		<input type="hidden" name="task" value="search" />
-		<input type="hidden" name="option" value="com_search" />
-		<input type="hidden" name="Itemid" value="638" />
-	</form>
+
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5VDCZZ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5VDCZZ');
+</script >
+
+<div id="svg-load"></div>
+
+
+<header class="header-block">
+
+<div id="hello">
+<div class="row">
+<div class="medium-12 columns">
+<span><h5><span class="hello-bar-txt">We are hiring. View <a href="https://www.light.co/jobs" class="underline">current openings</a>.</h5>
+
+</span>
 </div>
-</div></div><div class="sp-module "><div class="sp-module-content"><ul class="nav menu">
-<li class="item-437"><a href="/en/" >Home</a></li><li class="item-639 deeper parent"><a href="#" >Courses</a><ul class="nav-child unstyled small"><li class="item-692 deeper parent"><a href="#" >Cloud</a><ul class="nav-child unstyled small"><li class="item-655"><a href="https://www.ethans.co.in/en/devops-training-in-pune" >Devops</a></li><li class="item-695"><a href="https://www.ethans.co.in/en/azure-training-in-pune" >Microsoft Azure</a></li><li class="item-698"><a href="https://www.ethans.co.in/en/aws-training-in-pune" >Amazon Web Services</a></li><li class="item-709"><a href="https://www.ethans.co.in/en/aws-redshift-training-classes-in-pune" >AWS Redshift </a></li><li class="item-721"><a href="https://www.ethans.co.in/en/google-cloud-training-in-pune-gcp" >Google Cloud</a></li><li class="item-726"><a href="/en/courses/cloud/sales-force-training-institutes-classes-in-pune" >SalesForce</a></li></ul></li><li class="item-693 deeper parent"><a href="#" >Automation</a><ul class="nav-child unstyled small"><li class="item-647"><a href="https://www.ethans.co.in/en/perl-training-in-pune" >Perl Scripting</a></li><li class="item-651"><a href="/en/courses/automation/selenium-testing-classes-in-pune" >Selenium with Core Java</a></li><li class="item-729"><a href="/en/courses/automation/rpa-training-in-pune-blueprism-course" >RPA Blueprism &amp; UiPath</a></li><li class="item-652"><a href="https://www.ethans.co.in/en/etl-testing-training-in-pune" >ETL Testing with Informatica and Datastage</a></li><li class="item-654"><a href="https://www.ethans.co.in/en/unix-shell-scripting-training-in-pune" >Shell Scripting</a></li></ul></li><li class="item-694 deeper parent"><a href="#" >Analytics</a><ul class="nav-child unstyled small"><li class="item-642"><a href="https://www.ethans.co.in/en/python-training-in-pune" >Python Programming</a></li><li class="item-641"><a href="https://www.ethans.co.in/en/hadoop-training-in-pune" >Hadoop 2.x with Spark</a></li><li class="item-644"><a href="https://www.ethans.co.in/en/informatica-training-in-pune" >Informatica</a></li><li class="item-696"><a href="https://www.ethans.co.in/en/data-science-training-in-pune" >Data Science</a></li><li class="item-708"><a href="https://www.ethans.co.in/en/spark-scala-training-in-pune-classes" >Spark &amp; Scala</a></li><li class="item-712"><a href="https://www.ethans.co.in/en/iot-training-in-pune-classes-course" >IOT - Internet of things</a></li><li class="item-713"><a href="https://www.ethans.co.in/en/ai-training-in-pune-artificial-intelligence-classes" >Artificial Intelligence</a></li><li class="item-714"><a href="https://www.ethans.co.in/en/tableau-training-in-pune-classes" >Tableau</a></li><li class="item-732"><a href="/en/courses/analytics/machine-learning-training-in-pune-course-classes" >Machine Learning</a></li></ul></li><li class="item-670"><a href="/en/courses/all-courses" >All Courses</a></li><li class="item-718 deeper parent"><a href="#" >Other Courses</a><ul class="nav-child unstyled small"><li class="item-719"><a href="https://www.ethans.co.in/en/blockchain-training-in-pune" >Blockchain</a></li><li class="item-733"><a href="/en/courses/other-courses/digital-marketing-courses-in-pune-training-classes" >Digital Marketing</a></li><li class="item-720"><a href="https://www.ethans.co.in/en/abinitio-training-in-pune" >Abinitio</a></li></ul></li></ul></li><li class="item-630 deeper parent"><a href="#" >About Us</a><ul class="nav-child unstyled small"><li class="item-631"><a href="/en/about-us/our-history" >Our History</a></li><li class="item-632"><a href="/en/about-us/why-choose-us" >Why Choose Us</a></li><li class="item-633"><a href="/en/about-us/how-we-work" >How We Work</a></li><li class="item-634"><a href="/en/about-us/our-trainers" >Our Trainers</a></li><li class="item-635"><a href="/en/about-us/our-technologies" >Our Technologies</a></li></ul></li><li class="item-636"><a href="/en/services" >Services</a></li><li class="item-638 current active"><a href="/en/contact" >Contact Us</a></li></ul>
-</div></div>
-                            </div>
-        </div>
-    </div>
-        
+</div>
+</div>
+<div id="header-row" class="row">
+
+<div id="mobile-menu-btn">
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+</div>
+
+<a href="https://light.co"><img class="logo" alt="Light" src="https://light.co/assets/images/light_logo_dark.svg"></a>
+
+<div class="nav-desktop">
+<nav>
+<ul id="main-nav">
+<li>
+<a class="active" href="https://light.co">
+home</a>
+</li>
+<li>
+<a href="https://light.co/solutions">
+solutions</a>
+</li>
+<li>
+<a href="https://light.co/technology">
+technology</a>
+</li>
+<li>
+<a href="https://light.co/camera">
+products</a>
+</li>
+<li class="nav-blog">
+<div class="toggle-drop">
+<a href="" id="blog">gallery <img class="mobile-arrow" src="https://light.co/assets/images/arrow_down_4x.png"></a>
+<div class="mobile-hr"></div>
+</div>
+<div id="blog-dropdown">
+<div><a href="https://light.co/gallery">light gallery<br></a></div>
+<div><a href="https://captured.light.co/" target="_blank">photo stories</a></div>
+</div>
+</li>
+<li class="mobile-news"><a href="https://spot.light.co" target="_blank">news</a></li>
+<div class="nav-float-right">
+<li class="nav-support"><a href="https://support.light.co">L16 support</a></li>
+
+</div>
+
+</ul>
+</nav>
+</div>
+<div class="mobile-overlay">
+<nav>
+<ul id="main-nav">
+<li>
+<a class="active" href="https://light.co">
+home</a>
+</li>
+<li>
+<a href="https://light.co/solutions">
+solutions</a>
+</li>
+<li>
+<a href="https://light.co/technology">
+technology</a>
+</li>
+<li>
+<a href="https://light.co/camera">
+products</a>
+</li>
+<li class="nav-blog">
+<div class="toggle-drop">
+<a href="" id="blog">gallery <img class="mobile-arrow" src="https://light.co/assets/images/arrow_down_4x.png"></a>
+<div class="mobile-hr"></div>
+</div>
+<div id="blog-dropdown">
+<div><a href="https://light.co/gallery">light gallery<br></a></div>
+<div><a href="https://captured.light.co/" target="_blank">photo stories</a></div>
+</div>
+</li>
+<li class="mobile-news"><a href="https://spot.light.co" target="_blank">news</a></li>
+<div class="nav-float-right">
+<li class="nav-support"><a href="https://support.light.co">L16 support</a></li>
+
+</div>
+
+</ul>
+</nav>
+</div>
+<a href="https://reserve.light.co/checkout" id="main-button" class="buy mobile" target="_blank">Shop</a>
+
+</div>
+</header>
+
+
+
+
+
+<div id="gdpr-modal">
+<div class="form">
+<h3>Welcome to Light.co </h3>
+<h5 class="email-modal-title">In addition to cookies that are strictly necessary to operate our website, we use other cookies which are not strictly necessary. Please click <a href="legal#cookie-policy"><strong>here</strong></a> for more information. </h5>
+<p style="margin-top:40px;"><a id="main-button" class="gdpr-consent-agree">I Agree to the use of all cookies</a></p>
+<p><a href="legal#cookie-table" class="gdpr-settings"><strong>Click here to individualize cookie settings</strong></a></p>
+<h5 class="email-modal-title" style="margin-bottom:30px;margin-top:25px;"><strong>Opt out -</strong> You may withdraw your consent to cookies at any time once you have entered the website by changing your cookie settings. Please click <a href="legal#cookie-policy"><strong>here</strong></a> for more information on how to opt out. </h5>
+</div>
+</div>
+
+<div id="luzern-alert">
+<div class="modal-wrap">
+<h4> Heads Up! </h4>
+<p>You are being automatically redirected to the Light cart hosted by Luzern.</p>
+<p>This alert is in accordance with GDPR</p>
+<p>Redirect in <span id="redirect-time"></span> seconds</p>
+<p style="margin-bottom:0"><a class="luzern-cancel-btn">cancel</a></p>
+</div>
+</div>
+
+<section id="home-heros" class="intro">
+<div class="home-hero-container">
+<div class="img-overlay"></div>
+<div class="home-hero-slider">
+<div style="background:url(https://s3-us-west-2.amazonaws.com/light-prod-s3-assets-1jqjlzakwj67k/1-home-page/home-hero-1-phone-array-options.jpg);">
+<div class="hero-text">
+<h2 class="white">More cameras.<br> More data. <br>Better imaging.</h2>
+<h4 style="margin-bottom:40px;max-width:350px;" class="white">The world's most advanced imaging platform.</h4>
+<p><a id="main-button" href="https://light.co/solutions">Learn more</a></p>
+</div>
+</div>
+<div style="background:url(https://s3-us-west-2.amazonaws.com/light-prod-s3-assets-1jqjlzakwj67k/1-home-page/Home-Hero-security-cam.jpg);">
+<div class="hero-text">
+<h2 class="white">More cameras.<br> More data. <br>Better imaging.</h2>
+<h4 style="margin-bottom:40px;max-width:350px;" class="white">The world's most advanced imaging platform.</h4>
+<p><a id="main-button" href="https://light.co/solutions">Learn more</a></p>
+</div>
+</div>
+<div style="background:url(https://s3-us-west-2.amazonaws.com/light-prod-s3-assets-1jqjlzakwj67k/1-home-page/home-hero-comp-vision.jpg);">
+<div class="hero-text">
+<h2 class="white">More cameras.<br> More data. <br>Better imaging.</h2>
+<h4 style="margin-bottom:40px;max-width:350px;" class="white">The world's most advanced imaging platform.</h4>
+<p><a id="main-button" href="https://light.co/solutions">Learn more</a></p>
+</div>
+</div>
+</div>
+</div>
+
+</section>
+<section id="latest-news">
+<div class="row">
+<h2 style="padding-left:15px;padding-bottom:10px;">Latest news</h2>
+</div>
+<div class="row">
+<div class="medium-4 columns">
+<a href="https://www.nokia.com/phones/en_int/nokia-9-pureview/" target="_blank">
+<img src="https://s3-us-west-2.amazonaws.com/light-prod-s3-assets-1jqjlzakwj67k/1-home-page/news-nokia-1.jpg">
+<h5>Company News</h5>
+<h3>Introducing the Nokia 9 PureView with a five-camera array developed by Light</h3>
+</a>
+<p><a href="https://www.nokia.com/phones/en_int/nokia-9-pureview/" class="underline" target="_blank">Read more</a></p>
+</div>
+<div class="medium-4 columns">
+<a href="https://spot.light.co/mobile-world" target="_blank">
+<img src="https://s3-us-west-2.amazonaws.com/light-prod-s3-assets-1jqjlzakwj67k/1-home-page/Dave-grannan-light-MWC-keynote.jpg">
+<h5>Company News</h5>
+<h3>Mobile World: Light Technology In More Platforms</h3>
+</a>
+<p><a href="https://spot.light.co/mobile-world" class="underline" target="_blank">Read more</a></p>
+</div>
+<div class="medium-4 columns">
+<a href="https://www.globenewswire.com/news-release/2019/02/21/1739256/0/en/Light-Announces-Joint-Development-with-Sony-Semiconductors-Solutions-Corporation-of-Multi-Image-Sensor-Solutions-Reference-Designs.html" target="_blank">
+<img src="https://s3-us-west-2.amazonaws.com/light-prod-s3-assets-1jqjlzakwj67k/1-home-page/720x500-Sony-release.jpg">
+<h5>Press Release</h5>
+<h3>Light Announces Joint Development with Sony Semiconductors </h3>
+</a>
+<p><a href="https://www.globenewswire.com/news-release/2019/02/21/1739256/0/en/Light-Announces-Joint-Development-with-Sony-Semiconductors-Solutions-Corporation-of-Multi-Image-Sensor-Solutions-Reference-Designs.html" class="underline" target="_blank">Read more</a></p>
+</div>
+</div>
+</section>
+<section class="hi-cta asic">
+<div class="content">
+<h2 class="white" style="margin-bottom:25px;">The Light ASIC</h2>
+<p class="white" style="margin-bottom:40px;">The world’s only multi-camera integrated circuit that can support up to 6 cameras. Built specifically for computational imaging applications and optimized for mobile phones. </p>
+<p><a id="main-button" href="https://light.co/solutions">Learn more</a></p>
+</div>
+</section>
+<section class="desktop" style="padding:40px 0;"></section>
+
+<section id="how-it-works">
+<div class="row">
+<div class="medium-4 columns">
+<h2 style="padding-top:25px;">Extraordinary imaging in a conveniently compact form. </h2>
+<p class="how-it-works-sub">We combined revolutionary optics technology with an advanced image processing engine to bring you the camera that will change photography forever.</p>
+<p><a href="#" class="underline">Learn more</a></p>
+</div>
+<div class="medium-8 columns">
+<div class="flex-video widescreen vimeo">
+
+<iframe src="https://player.vimeo.com/video/188140003" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+</div>
+</section>
+<section id="light-working">
+<div class="row">
+<div class="medium-4 columns">
+<h2>Working with Light.</h2>
+<p>Our team is the best in the world at developing better imaging for smartphones. We have years of expertise in designing, calibrating, and building multi-module camera systems. We are set up to support customized solutions across smartphones and can build the perfect solution for you. We have over 100 people across continents.</p>
+<p>We’d love to learn about your business requirements and how our solutions can help you meet your company’s goals.</p>
+<p class="btn-space-top"><a id="main-button" href="https://light.co/solutions#contact-light">Speak to an expert</a></p>
+</div>
+<div class="medium-8 columns">
+<img src="https://s3-us-west-2.amazonaws.com/light-prod-s3-assets-1jqjlzakwj67k/5-solutions-page/Experience-1.jpg" style="width:100%;max-width:100%;">
+</div>
+</div>
+</section>
+<section class="desktop" style="padding:20px 0;"></section>
+<section class="hi-cta l16-feature-block">
+<div class="content">
+<img src="https://s3-us-west-2.amazonaws.com/light-prod-s3-assets-1jqjlzakwj67k/1-home-page/red-dot-award.png" class="sub-head">
+<h2 class="white">A little camera <br>with big potential.</h2>
+<p class="btn-space-top"><a id="main-button" href="https://light.co/camera">Meet the L16</a></p>
+</div>
+</section>
+<section class="hi-cta blog">
+<div class="img-overlay" style="display:block;background:rgba(0, 0, 0, 0.2)"></div>
+<div class="content">
+<h5 class="white sub-head" style="margin-bottom:25px;"><b>Light Photo Blog<b></h5>
+<h2 class="white">Whipped by Wilderness</h2>
+<p class="white">Resident Photographer Sean Custer on a road trip through the Eastern Sierras.</p>
+<p class="btn-space-top"><a id="main-button" href="https://captured.light.co/whipped-by-wilderness" target="_blank">View now</a></p>
+</div>
+</section>
+<section class="hi-cta insta">
+<div class="content">
+<h5 class="white sub-head"><b>Follow us<b></h5>
+<h2 class="white">Instagram</h2>
+<p class="btn-space-top"><a id="main-button" href="https://instagram.com/light/" target="_blank">View now</a></p>
+</div>
+</section>
+<section class="hi-cta gallery">
+<div class="content">
+<h2 class="white">Light Gallery</h2>
+<p class="white">View images captured using the Light Technology and processed using Light’s proprietary software.</p>
+<p class="btn-space-top"><a id="main-button" href="https://light.co/gallery">View now</a></p>
+</div>
+</section>
+
+
+<section id="email-cta">
+<div class="row">
+<h3 class="email-cta-title">Stay in the know. </h3>
+<p class="email-cta-text-one" style="margin-bottom:0;">Product updates, the latest news, and photography from around the world —</p>
+<p class="email-cta-text-two">all delivered straight to your inbox.</p>
+<form class="cta-form us-content" id="mc-form">
+<input id="mc-email" type="email" placeholder="Email"></input>
+<button id="main-button" type="submit">Subscribe</button>
+<br />
+<label for="mc-email" id="mc-label"></label>
+<div class="mc-field-group input-group" style="display:none;">
+<strong>Email Preferences </strong>
+<ul>
+<li><input type="checkbox" checked value="64" name="group[16549][64]" id="mce-group[16549]-16549-0"><label for="mce-group[16549]-16549-0">News</label></li>
+<li><input type="checkbox" checked value="128" name="group[16549][128]" id="mce-group[16549]-16549-1"><label for="mce-group[16549]-16549-1">Special Offers</label></li>
+<li><input type="checkbox" checked value="256" name="group[16549][256]" id="mce-group[16549]-16549-2"><label for="mce-group[16549]-16549-2">Surveys</label></li>
+</ul>
+</div>
+<input type="hidden" value="Homepage" name="SIGNUPLOC" class="" id=""></input>
+<div id="subscribe-result"></div>
+</form>
+<a href="http://eepurl.com/dsr1Hz" id="main-button" class="email-gdpr-cta uk-content" target="_blank">Sign up here</a>
+<a href="http://eepurl.com/dsr1HL" id="main-button" class="email-gdpr-cta eu-content" target="_blank">Sign up here</a>
+</div>
+</section>
+
+<div id="footer">
+
+<div class="row">
+<div class="footer-desktop">
+<div class="medium-2 columns">
+<a href="https://light.co"><img class="logo" alt="Light" src="https://light.co/assets/images/light_logo_dark.svg"></a>
+</div>
+<div class="medium-10 columns">
+
+<ul id="footer-nav">
+<li>
+<h6 class="parent">Solutions</h6>
+<a href="https://light.co/solutions">Platform</a>
+<a href="https://light.co/solutions#technology">Technology</a>
+<a href="https://light.co/solutions#application">Applications</a>
+<a href="https://light.co/solutions#solutions-contact">Contact</a>
+</li>
+<li>
+<h6 class="parent">Company</h6>
+<a href="https://light.co/company">About</a>
+<a href="https://light.co/jobs">Careers</a>
+
+<a href="https://light.co/press">Press</a>
+<a href="https://brand.light.co/light/media-kit" target="_blank">Press kit</a>
+<a href="https://light.co/ambassadors">Ambassadors</a>
+</li>
+<li>
+<h6 class="parent">Products</h6>
+<a href="https://light.co/camera">L16</a>
+<a href="https://light.co/lumen">Lumen</a>
+
+
+<a href="https://light.co/legal#limited-product-warranty">Warranty</a>
+
+<a class="page-anchor" href="/cdn-cgi/l/email-protection#2b434e4747446b47424c435f054844">Contact us</a>
+</li>
+<li>
+<h6 class="parent">Blogs</h6>
+<a href="https://spot.light.co/" target="_blank">Company news</a>
+<a href="https://captured.light.co/" target="_blank">Photo stories</a>
+<a href="https://support.light.co/l16-photography">L16 tips & tricks</a>
+</li>
+<li>
+<h6 class="parent">Social</h6>
+<a href="https://www.facebook.com/TheLightCo" alt="Light Facebook" target="_blank">Facebook</a>
+<a href="https://twitter.com/thelightco" target="_blank" alt="Light Twitter">Twitter</a>
+<a href="https://instagram.com/light/" target="_blank" alt="Light Instagram">Instagram</a>
+<a href="https://www.linkedin.com/company/thelightco" target="_blank" alt="Light LinkedIn">Linkedin</a>
+
+
+<a href="https://youtube.com/LightPaloAlto" target="_blank" alt="Light Vimeo">YouTube</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="footer-mobile">
+<p><a href="https://light.co/solutions">Solutions</a></p>
+<p><a href="https://light.co/company">About</a></p>
+<p><a href="https://light.co/jobs">Careers</a></p>
+<p><a href="https://spot.light.co" target="_blank">Company News</a></p>
+</div>
+</div>
+<div class="row">
+
+<div>
+
+<div id="video-modal">
+<div id="grid-gallery" class="grid-gallery">
+<div class="grid-wrap">
+<ul class="grid">
+<li>
+<figure id="region-button-container">
+<a id="region-button" class="region">Select</a>
+<a id="region-name">Country</a>
+</figure>
+</li>
+</ul>
+</div>
+<div class="slideshow">
+<ul>
+<li>
+<span class="close hairline"></span>
+<figure>
+<div class="medium-6 columns">
+<h6 class="please-select">Please select your country</h6>
+<a href="" class="country-selector" data-country-code="AD">
+<span class="flag">
+<div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-andorra.jpg">
+</span>
+<span class="country">Andorra</span>
+</a>
+<a href="" class="country-selector" data-country-code="AT">
+<span class="flag">
+<div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-austria.jpg">
+</span>
+<span class="country">Austria</span>
+</a>
+<a href="" class="country-selector" data-country-code="BE">
+<span class="flag">
+<div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-belgium.jpg">
+</span>
+<span class="country">Belgium</span>
+</a>
+<a href="" class="country-selector" data-country-code="CY">
+<span class="flag">
+<div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-cyprus.jpg"></span>
+<span class="country">Cyprus</span>
+</a>
+<a href="" class="country-selector" data-country-code="EE">
+<span class="flag">
+<div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-estonia.jpg"></span>
+<span class="country">Estonia</span>
+</a>
+<a href="" class="country-selector" data-country-code="FI">
+<span class="flag">
+<div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-finland.jpg"></span>
+<span class="country">Finland</span>
+</a>
+<a href="" class="country-selector" data-country-code="FR">
+<span class="flag"><div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-france.jpg">
+</span>
+<span class="country">France</span>
+</a>
+<a href="" class="country-selector" data-country-code="DE">
+<span class="flag"><div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-germany.jpg">
+</span>
+<span class="country">Germany</span>
+</a>
+<a href="" class="country-selector" data-country-code="GR">
+<span class="flag">
+<div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-greece.jpg"></span>
+<span class="country">Greece</span>
+</a>
+<a href="" class="country-selector" data-country-code="IS">
+<span class="flag">
+<div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-iceland.jpg"></span>
+<span class="country">Iceland</span>
+</a>
+<a href="" class="country-selector" data-country-code="IE">
+<span class="flag">
+<div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-ireland.jpg">
+</span>
+<span class="country">Ireland</span>
+</a>
+<a href="" class="country-selector" data-country-code="IT">
+<span class="flag">
+<div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-italy.jpg">
+</span>
+<span class="country">Italy</span>
+</a>
+<a href="" class="country-selector" data-country-code="LI">
+<span class="flag">
+<div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-liechtenstein.jpg">
+</span>
+<span class="country">Liechtenstein</span>
+</a>
+<a href="" class="country-selector" data-country-code="LU">
+<span class="flag">
+<div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-luxembourg.jpg"></span>
+<span class="country">Luxembourg</span>
+</a>
+<a href="" class="country-selector" data-country-code="MT">
+<span class="flag">
+<div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-malta.jpg"></span>
+<span class="country">Malta</span>
+</a>
+<a href="" class="country-selector" data-country-code="MC">
+<span class="flag">
+<div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-monaco.jpg"></span>
+<span class="country">Monaco</span>
+</a>
+<a href="" class="country-selector" data-country-code="ME">
+<span class="flag">
+<div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-montenegro.jpg"></span>
+<span class="country">Montenegro</span>
+</a>
+<a href="" class="country-selector" data-country-code="NL">
+<span class="flag">
+<div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-netherlands.jpg">
+</span>
+<span class="country">Netherlands</span>
+</a>
+<a href="" class="country-selector" data-country-code="NO">
+<span class="flag">
+<div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-norway.jpg"></span>
+<span class="country">Norway</span>
+</a>
+<a href="" class="country-selector" data-country-code="PL">
+<span class="flag">
+<div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-poland.jpg"></span>
+<span class="country">Poland</span>
+</a>
+<a href="" class="country-selector" data-country-code="PT">
+<span class="flag">
+<div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-portugal.jpg"></span>
+<span class="country">Portugal</span>
+</a>
+<a href="" class="country-selector" data-country-code="SM">
+<span class="flag">
+<div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-san-marino.jpg"></span>
+<span class="country">San Marino</span>
+</a>
+<a href="" class="country-selector" data-country-code="SI">
+<span class="flag">
+<div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-slovenia.jpg"></span>
+<span class="country">Slovenia</span>
+</a>
+<a href="" class="country-selector" data-country-code="ES">
+<span class="flag">
+<div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-spain.jpg">
+</span>
+<span class="country">Spain</span>
+</a>
+<a href="" class="country-selector" data-country-code="SE">
+<span class="flag">
+<div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-sweden.jpg">
+</span>
+<span class="country">Sweden</span>
+</a>
+<a href="" class="country-selector" data-country-code="CH">
+<span class="flag">
+<div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-switzerland.jpg"></span>
+<span class="country">Switzerland</span>
+</a>
+<a href="" class="country-selector" data-country-code="UK">
+<span class="flag">
+<div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-uk.jpg">
+</span>
+<span class="country">United Kingdom</span>
+</a>
+<a href="" class="country-selector" data-country-code="US">
+<span class="flag">
+<div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-us.jpg">
+</span>
+<span class="country">United States</span>
+</a>
+<a href="" class="country-selector" data-country-code="UNK">
+<span class="flag">
+<div class="img-overlay"></div>
+<img src="https://light.co/assets/images/flags/flag-3-not-found.jpg">
+</span>
+<span class="country">Not Listed</span>
+</a>
+</div>
+</figure>
+</li>
+</ul>
+<nav>
+<span class="icon nav-prev"><i class="fa fa-angle-left"></i></span>
+<span class="icon nav-next"><i class="fa fa-angle-right"></i></span>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="footer-bottom">
+<p id="copyright">&copy; 2019 Light. All rights reserved.</p>
+<div class="footer-terms">
+<ul id="footer-terms">
+<li><a href="https://light.co/legal#privacy">Privacy Policy</a></li>
+<li><a href="https://light.co/legal#terms">Terms of Use</a></li>
+<li><a href="https://light.co/sitemap.xml">Site Map</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="https://light.co/assets/js/jquery-2.1.1.js"></script>
+<script src="https://light.co/assets/js/scrollax.min.js"></script>
+<script src="https://light.co/assets/js/parallax.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+<script type="text/javascript" src="https://light.co/assets/js/modernizr.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/foundation/5.5.3/js/vendor/modernizr.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/classie/1.0.1/classie.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+<script type="text/javascript" src="https://light.co/assets/js/cbpGridGallery.js"></script>
+<script type="text/javascript" src="https://light.co/assets/js/froogaloop.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+<script type="text/javascript" src="https://light.co/assets/js/jquery.mobile.custom.min.js"></script>
+<script type="text/javascript" src="https://light.co/assets/js/js.cookie.js"></script>
+<script type="text/javascript" src="https://light.co/assets/js/geo-cookie.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js"></script>
+<script type="text/javascript" src="https://light.co/assets/js/isotope.pkgd.min.js"></script>
+<script type="text/javascript" src="https://light.co/assets/js/imagesloaded.pkgd.min.js"></script>
+<script type="text/javascript" src="https://light.co/assets/js/masonry.pkgd.min.js"></script>
+<script src="https://light.co/assets/js/packery.pkgd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/TweenMax.min.js"></script>
+<script src="https://light.co/assets/js/jquery.easing.min.js"></script>
+<script src="https://light.co/assets/js/waypoints0.min.js"></script>
+<script src="https://light.co/assets/js/jquery.debouncedresize.js"></script>
+<script src="https://light.co/assets/js/cbpFixedScrollLayout.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-lazyload/8.7.1/lazyload.min.js"></script>
+<script src="https://light.co/assets/js/jquery.panzoom.js"></script>
+<script src="https://light.co/assets/js/jquery.easyPaginate.js"></script>
+<script src="https://light.co/assets/js/jquery-shorten.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation/foundation.magellan.min.js"></script>
+
+<script src="https://light.co/assets/js/main.js?v=0.0.0369"></script>
+<script src="https://light.co/assets/js/templates/camera.js?v=0.0.0369"></script>
+
+<script src="https://light.co/assets/js/ajaxchimp.js?v=0.0.0369"></script>
 </body>
 </html>
+<script>
+	$('.home-hero-slider').slick({
+		slidesToShow: 1,
+		slidesToScroll: 1,
+		arrows: false,
+		dots:true,
+		fade: true,
+		//asNavFor: '.slider-nav',
+		autoplay: true,
+		autoplaySpeed: 5000
+		});
+
+</script>
