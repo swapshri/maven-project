@@ -4,7 +4,6 @@
 <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    
       <base href="https://www.ethans.co.in/en/contact" />
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="keywords" content="it professional training institute, it training institute, pune" />
