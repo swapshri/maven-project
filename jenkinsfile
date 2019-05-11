@@ -1,11 +1,14 @@
 pipeline {
-agent any
+	agent any
+	
 	stages {
+	
 		stage ('checkout') {
 			steps {
 				git 'https://github.com/swapshri/maven-project.git'
 			}
 		}
+		
 		stage ('compile source code') {
 			steps {
 				WithMaven(maven: 'LocalMaven') {
@@ -13,6 +16,7 @@ agent any
 				}
 			}
 		}
+		
 		stage ('test stage') {
 			steps {
 				WithMaven(maven: 'LocalMaven') {
@@ -20,6 +24,7 @@ agent any
 				}
 			}
 		}
+		
 		stage ('package stage') { 
 			steps {
 				WithMaven(maven: 'LocalMaven') {
@@ -27,6 +32,7 @@ agent any
 				}
 			}
 		}
+		
 		stage ('install stage') {
 			steps {
 				WithMaven(maven: 'LocalMaven') {
@@ -36,3 +42,4 @@ agent any
 		}			
 	}
 }	
+
