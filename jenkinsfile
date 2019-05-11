@@ -1,0 +1,54 @@
+Pipeline{
+
+	any agent {
+	
+		Stages {
+		
+			Stage ('SCM Checkout'){
+				git 'Github URL'
+			}
+				
+			Stage ('compile source code'){
+				Steps{
+					WithMaven(maven: 'LocalMaven'){
+						sh 'mvn compile'
+					}
+				}
+			}
+				
+			Stage ('test source code'){
+				Steps{
+					WithMaven(maven: 'LocalMaven'){
+						sh 'mvn test'
+					}
+				}
+			}
+			
+			Stage ('package source code'){ 
+				Steps{
+					WithMaven(maven: 'LocalMaven'){
+						sh 'mvn package'
+					}
+				}
+			}
+			
+			Stage ('install source code'){
+				Steps{
+					WithMaven(maven: 'LocalMaven'){
+						sh 'mvn install'
+					}
+				}
+			}	
+			
+			Stage ('deploy to tomcat'){
+				Steps{
+					WithMaven(maven: 'LocalMaven'){
+						sh 'mvn deploy'
+					}
+				}
+			}		
+			
+			
+		}	
+	}
+}	
