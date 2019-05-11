@@ -1,37 +1,36 @@
-pipeline {
+pipeline{
 any agent
-stages {
-stage ('scm checkout') {
-git 'https://github.com/swapshri/maven-project.git'
-}
-stage ('compile source code') {
-steps {
-WithMaven(maven: 'LocalMaven') {
-sh 'mvn compile'
-}
-}
-}
-stage ('test stage') {
-steps {
-WithMaven(maven: 'LocalMaven') {
-sh 'mvn test'
-}
-}
-}
-stage ('package stage') { 
-steps {
-WithMaven(maven: 'LocalMaven') {
-sh 'mvn package'
-}
-}
-}
-stage ('install stage') {
-steps {
-WithMaven(maven: 'LocalMaven') {
-sh 'mvn install'
-}
-}
-}		
-}	
-}
+	stages {
+		stage ('scm checkout'){
+			git 'https://github.com/swapshri/maven-project.git'
+		}
+		stage ('compile source code'){
+			steps {
+				WithMaven(maven: 'LocalMaven'){
+					sh 'mvn compile'
+				}
+			}
+		}
+		stage ('test stage'){
+			steps {
+				WithMaven(maven: 'LocalMaven'){
+					sh 'mvn test'
+				}
+			}
+		}
+		stage ('package stage'){ 
+			steps {
+				WithMaven(maven: 'LocalMaven'){
+					sh 'mvn package'
+				}
+			}
+		}
+		stage ('install stage'){
+			steps {
+				WithMaven(maven: 'LocalMaven'){
+					sh 'mvn install'
+				}
+			}
+		}			
+	}
 }	
