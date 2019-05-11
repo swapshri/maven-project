@@ -1,5 +1,5 @@
 pipeline{
-any agent
+agent any
 	stages {
 		stage ('scm checkout'){
 			git 'https://github.com/swapshri/maven-project.git'
