@@ -2,7 +2,7 @@ pipeline {
 any agent
 stages {
 stage ('scm checkout') {
-git 'Github https://github.com/swapshri/maven-project.git'
+git 'https://github.com/swapshri/maven-project.git'
 }
 stage ('compile source code') {
 steps {
