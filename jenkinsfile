@@ -5,7 +5,7 @@ Pipeline{
 		Stages {
 		
 			Stage ('SCM Checkout'){
-				git 'Github URL'
+				git 'Github https://github.com/swapshri/maven-project.git'
 			}
 				
 			Stage ('compile source code'){
@@ -16,7 +16,7 @@ Pipeline{
 				}
 			}
 				
-			Stage ('test source code'){
+			Stage ('test stage'){
 				Steps{
 					WithMaven(maven: 'LocalMaven'){
 						sh 'mvn test'
@@ -24,7 +24,7 @@ Pipeline{
 				}
 			}
 			
-			Stage ('package source code'){ 
+			Stage ('package stage'){ 
 				Steps{
 					WithMaven(maven: 'LocalMaven'){
 						sh 'mvn package'
@@ -32,18 +32,10 @@ Pipeline{
 				}
 			}
 			
-			Stage ('install source code'){
+			Stage ('install stage'){
 				Steps{
 					WithMaven(maven: 'LocalMaven'){
 						sh 'mvn install'
-					}
-				}
-			}	
-			
-			Stage ('deploy to tomcat'){
-				Steps{
-					WithMaven(maven: 'LocalMaven'){
-						sh 'mvn deploy'
 					}
 				}
 			}		
