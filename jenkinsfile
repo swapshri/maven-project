@@ -1,0 +1,46 @@
+Pipeline{
+
+	any agent {
+	
+		Stages {
+		
+			Stage ('scm checkout'){
+				git 'Github https://github.com/swapshri/maven-project.git'
+			}
+				
+			Stage ('compile source code'){
+				Steps{
+					WithMaven(maven: 'LocalMaven'){
+						sh 'mvn compile'
+					}
+				}
+			}
+				
+			Stage ('test stage'){
+				Steps{
+					WithMaven(maven: 'LocalMaven'){
+						sh 'mvn test'
+					}
+				}
+			}
+			
+			Stage ('package stage'){ 
+				Steps{
+					WithMaven(maven: 'LocalMaven'){
+						sh 'mvn package'
+					}
+				}
+			}
+			
+			Stage ('install stage'){
+				Steps{
+					WithMaven(maven: 'LocalMaven'){
+						sh 'mvn install'
+					}
+				}
+			}		
+			
+			
+		}	
+	}
+}	
