@@ -4,7 +4,7 @@ Pipeline{
 	
 		Stages {
 		
-			Stage ('SCM Checkout'){
+			Stage ('scm checkout'){
 				git 'Github https://github.com/swapshri/maven-project.git'
 			}
 				
