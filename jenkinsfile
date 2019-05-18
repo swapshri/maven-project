@@ -5,7 +5,7 @@ pipeline {
 			steps {
 				withSonarQubeEnv('SonarPipeline'){
 					withMaven(maven: 'My-Maven'){
-						sh 'clean install sonar:sonar'
+						sh 'mvn clean install sonar:sonar'
 					}
 				}
 			}
