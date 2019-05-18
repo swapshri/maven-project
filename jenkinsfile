@@ -1,6 +1,6 @@
 pipeline {
+
 	agent any
-	
 	stages {
 	
 		stage ('checkout') {
@@ -16,6 +16,7 @@ pipeline {
 				}
 			}
 		}
+				
 		
 		stage ('test stage') {
 			steps {
@@ -37,6 +38,10 @@ pipeline {
 			steps {
 				withMaven(maven: 'My-Maven') {
 					sh 'mvn install'
+				}
+				
+				withSonarQubeEnv(sonar: 'SonarPipeline') {
+					sh 'clean install sonar:sonar'
 				}
 			}
 		}			
